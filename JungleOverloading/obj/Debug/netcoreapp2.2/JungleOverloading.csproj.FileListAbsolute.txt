@@ -1,0 +1,11 @@
+C:\Users\wchip\source\repos\JungleOverloading\JungleOverloading\bin\Debug\netcoreapp2.2\JungleOverloading.deps.json
+C:\Users\wchip\source\repos\JungleOverloading\JungleOverloading\bin\Debug\netcoreapp2.2\JungleOverloading.runtimeconfig.json
+C:\Users\wchip\source\repos\JungleOverloading\JungleOverloading\bin\Debug\netcoreapp2.2\JungleOverloading.runtimeconfig.dev.json
+C:\Users\wchip\source\repos\JungleOverloading\JungleOverloading\bin\Debug\netcoreapp2.2\JungleOverloading.dll
+C:\Users\wchip\source\repos\JungleOverloading\JungleOverloading\bin\Debug\netcoreapp2.2\JungleOverloading.pdb
+C:\Users\wchip\source\repos\JungleOverloading\JungleOverloading\obj\Debug\netcoreapp2.2\JungleOverloading.csprojAssemblyReference.cache
+C:\Users\wchip\source\repos\JungleOverloading\JungleOverloading\obj\Debug\netcoreapp2.2\JungleOverloading.csproj.CoreCompileInputs.cache
+C:\Users\wchip\source\repos\JungleOverloading\JungleOverloading\obj\Debug\netcoreapp2.2\JungleOverloading.AssemblyInfoInputs.cache
+C:\Users\wchip\source\repos\JungleOverloading\JungleOverloading\obj\Debug\netcoreapp2.2\JungleOverloading.AssemblyInfo.cs
+C:\Users\wchip\source\repos\JungleOverloading\JungleOverloading\obj\Debug\netcoreapp2.2\JungleOverloading.dll
+C:\Users\wchip\source\repos\JungleOverloading\JungleOverloading\obj\Debug\netcoreapp2.2\JungleOverloading.pdb
